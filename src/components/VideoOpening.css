@@ -1,0 +1,16 @@
+.fullbleed-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  object-fit: cover;
+  object-position: center;
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  background-color: #000000;
+  z-index: 1;
+}
